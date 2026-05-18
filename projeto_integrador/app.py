@@ -5,7 +5,7 @@ df = pd.read_csv("projeto_integrador/data/processado/vendas_tratadas.csv")
 
 st.set_page_config(layout="wide")
 
-st.title("📊 Dashboard de Vendas")
+st.title(" Dashboard de Vendas")
 st.sidebar.header("Filtros")
 anos = sorted(df['year'].unique())
 ano = st.sidebar.selectbox("Ano", anos)
