@@ -54,3 +54,6 @@ https://projetointegradoretlvendas-dmkgbahbe2frbjiyuw5win.streamlit.app/
 - Pandas
 - Streamlit
 - GitHub
+
+- ## Integrantes do Grupo
+- Mateus Vinicius Aguiar Gonçalves (https://github.com/mateusviniciusag-a11y)
