@@ -1,7 +1,7 @@
 import streamlit as st
 import pandas as pd
 
-df = pd.read_csv("data/processado/vendas_tratadas.csv")
+df = pd.read_csv("projeto_integrador/data/processado/vendas_tratadas.csv")
 
 st.set_page_config(layout="wide")
 
